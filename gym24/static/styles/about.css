@@ -1,0 +1,48 @@
+.about_container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    width: 100%;
+}
+
+.title_about{
+    font-size: 48px;
+    margin-bottom: 65px;
+    font-family: 'MADEOuterSansMedium';
+    display: flex;
+    flex-direction: column;
+}
+
+.text_about{
+    width: 472px;
+    height: 330px;
+    font-size: 14px;
+    font-family: 'MADEOuterSans300';
+    margin-top: 65px;
+}
+
+.carousel_container{
+    text-align: end;
+}
+
+.control_panel{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.prev, .next{
+    cursor: pointer;
+}
+
+.arrow{
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.rectangle{
+    cursor: pointer;
+}
+
+.active{
+    fill: aqua;
+}

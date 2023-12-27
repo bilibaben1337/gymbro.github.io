@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'MADEOuterSansRegular';
+    src: url('../fonts/MADEOuterSansRegular.otf');
+}
+
+@font-face {
+    font-family: 'MADEOuterSansMedium';
+    src: url('../fonts/MADEOuterSansMedium.otf');
+}
+
+@font-face {
+    font-family: 'MADEOuterSans300';
+    src: url('../fonts/MADEOuterSans300.otf');
+}
+
+@font-face {
+    font-family: 'MADEOuterSansBold';
+    src: url('../fonts/MADEOuterSansBold.otf');
+}
+
+@font-face {
+    font-family: 'BrunoAceSC-Regular';
+    src: url('../fonts/BrunoAceSC-Regular.ttf');
+}
